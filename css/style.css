@@ -85,6 +85,7 @@ button{
 .arrow-button{
     background: var(--brown-color);
 }
+
 .button-container{
     width: 25rem;
     display: flex;
