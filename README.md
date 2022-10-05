@@ -22,11 +22,12 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: (https://github.com/Umlen/art-gallery-website)
-- Live Site URL: (https://art-gallery-website-teal.vercel.app/)
+- Solution URL: (https://github.com/DeGuzman7/Art-Gallery-website)
+- Live Site URL: (https://deguzman7.github.io/Art-Gallery-website/)
 
 ## What I learned
-learnt how to use the mix-blend-mode property
+
+- learnt how to use the mix-blend-mode property
 
 ### Built with
 
@@ -41,6 +42,6 @@ learnt how to use the mix-blend-mode property
 
 ## Author
 
-- GitHub - [Chinedu](https://github.com/Deguzman7)
+- GitHub - [Chinedu](https://github.com/DeGuzman7)
 - Frontend Mentor - [@DeGuzman7](https://www.frontendmentor.io/profile/DeGuzman7)
 
